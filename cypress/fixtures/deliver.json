@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Guilherme Anderzen Polido",
+    "cpf": "12345632443",
+    "email": "guilherme@gmail.com",
+    "whatsapp": "45999999999",
+    "addess": {
+      "portalCode": "85818430",
+      "street": "Rua Roma",
+      "number": "958",
+      "details": "Casa",
+      "district": "Cascavel Velho",
+      "city_state": "Cascavel/PR"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpeg"
+  },
+  "cpf_inv": {
+    "name": "João da Silva",
+    "cpf": "x234563244a",
+    "email": "guilherme@gmail.com",
+    "whatsapp": "55999999999",
+    "addess": {
+      "portalCode": "85818430",
+      "street": "Rua Roma",
+      "number": "958",
+      "details": "Casa",
+      "district": "Cascavel Velho",
+      "city_state": "Cascavel/PR"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpeg"
+  },
+  "email_inv": {
+    "name": "Guilherme Anderzen Polido",
+    "cpf": "12345632443",
+    "email": "guilherme.com",
+    "whatsapp": "45999999999",
+    "addess": {
+      "portalCode": "85818430",
+      "street": "Rua Roma",
+      "number": "958",
+      "details": "Casa",
+      "district": "Cascavel Velho",
+      "city_state": "Cascavel/PR"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpeg"
+  }
+}
